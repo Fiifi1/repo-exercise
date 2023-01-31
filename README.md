@@ -1,2 +1,2 @@
 # repo-exercise
-Coursera git course
+Version Control course on Coursera
